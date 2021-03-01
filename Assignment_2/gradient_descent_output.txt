@@ -1,0 +1,103 @@
+Housing Output:
+Statistics for Fold iteration 1:
+The training RMSE is: 0.5333096783336562
+The test RMSE is: 1.8114569160435483
+Statistics for Fold iteration 2:
+The training RMSE is: 0.555419603669625
+The test RMSE is: 1.6172402525759093
+Statistics for Fold iteration 3:
+The training RMSE is: 0.5372698040511976
+The test RMSE is: 1.772193453070217
+Statistics for Fold iteration 4:
+The training RMSE is: 0.5142190646196144
+The test RMSE is: 1.7159854220591686
+Statistics for Fold iteration 5:
+The training RMSE is: 0.536545847634055
+The test RMSE is: 2.1021799514462134
+Statistics for Fold iteration 6:
+The training RMSE is: 0.5310694772309084
+The test RMSE is: 1.8384249115016742
+Statistics for Fold iteration 7:
+The training RMSE is: 0.5484318295459828
+The test RMSE is: 1.770887029721453
+Statistics for Fold iteration 8:
+The training RMSE is: 0.5490385321456625
+The test RMSE is: 2.29643459043786
+Statistics for Fold iteration 9:
+The training RMSE is: 0.5432228021561529
+The test RMSE is: 1.8741499243765558
+Statistics for Fold iteration 10:
+The training RMSE is: 0.5331482899299395
+The test RMSE is: 1.3568958854502957
+The average SSE across all folds is: 3.3544341583738424
+The standard deviation for the SSE is: 0.8913604616133423
+
+
+Yacht Output:
+Statistics for Fold iteration 1:
+The training RMSE is: 0.5874832989440847
+The test RMSE is: 1.2175231591664826
+Statistics for Fold iteration 2:
+The training RMSE is: 0.5812282360583333
+The test RMSE is: 1.1119257944470897
+Statistics for Fold iteration 3:
+The training RMSE is: 0.5937766023303461
+The test RMSE is: 1.2891308826539458
+Statistics for Fold iteration 4:
+The training RMSE is: 0.5821991721529098
+The test RMSE is: 1.0916945664607345
+Statistics for Fold iteration 5:
+The training RMSE is: 0.5857984178346702
+The test RMSE is: 1.0656097572031085
+Statistics for Fold iteration 6:
+The training RMSE is: 0.5891392768880108
+The test RMSE is: 1.2392460846085995
+Statistics for Fold iteration 7:
+The training RMSE is: 0.5854634600204557
+The test RMSE is: 1.1214491576262529
+Statistics for Fold iteration 8:
+The training RMSE is: 0.5810888749731538
+The test RMSE is: 0.5744247359821597
+Statistics for Fold iteration 9:
+The training RMSE is: 0.5927044247125917
+The test RMSE is: 1.546403202103424
+Statistics for Fold iteration 10:
+The training RMSE is: 0.5832017437209903
+The test RMSE is: 0.7888065595442413
+The average SSE across all folds is: 1.2844842729684323
+The standard deviation for the SSE is: 0.5341718286606212
+
+
+Concrete Output:
+Statistics for Fold iteration 1:
+The training RMSE is: 0.6224837758866592
+The test RMSE is: 4.006371027917254
+Statistics for Fold iteration 2:
+The training RMSE is: 0.620753632352978
+The test RMSE is: 3.4765415724582263
+Statistics for Fold iteration 3:
+The training RMSE is: 0.625099280464232
+The test RMSE is: 6.103568818141143
+Statistics for Fold iteration 4:
+The training RMSE is: 0.6192577160565723
+The test RMSE is: 3.8216334272877988
+Statistics for Fold iteration 5:
+The training RMSE is: 0.6187129515448059
+The test RMSE is: 5.019751325174727
+Statistics for Fold iteration 6:
+The training RMSE is: 0.6250378978572348
+The test RMSE is: 5.531081606328891
+Statistics for Fold iteration 7:
+The training RMSE is: 0.6322941101931827
+The test RMSE is: 9.12385186111362
+Statistics for Fold iteration 8:
+The training RMSE is: 0.612679019528896
+The test RMSE is: 6.277564709609734
+Statistics for Fold iteration 9:
+The training RMSE is: 0.6205883250327972
+The test RMSE is: 5.712720568926726
+Statistics for Fold iteration 10:
+The training RMSE is: 0.6260126856151916
+The test RMSE is: 5.315505117192643
+The average SSE across all folds is: 31.93288140076003
+The standard deviation for the SSE is: 19.299329888270087
